@@ -1,0 +1,163 @@
+@media(max-width:991px){
+
+}
+@media(max-width:768px){
+  
+}
+@media(max-width:767px){
+    .navbar-nav{
+        text-align: center;
+    }
+    .organic_product {
+        width: 80%;
+        margin: auto;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .form-control{
+        display: none;
+    }
+    .btn{
+        display: none;
+    }
+    
+}
+@media(max-width:425px){
+    .banner_right_content {
+        text-align: center;
+    }
+    .banner_right_content h1,.selling_product h1,.customers_review h1{
+        font-size: 30px;
+    }
+    .price{
+        text-align: center;
+    }
+    .fruits_section .items,.responsive,.footer_logo_content,.footer_content h2,.footer_content p,.copyright h5{
+        text-align: center;
+    }
+    footer p,.footer_content p{
+        padding-bottom: 100px;
+    }
+    .store img {
+       
+        width: 38%;
+    }
+    .store {
+        
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .unorderlist {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+  
+}
+@media(max-width:320px){
+    
+}
+@media(max-width:375px){
+   
+}
+@media(max-width:320px){
+    .navbar-light .navbar-brand{
+        width: 40%;
+    }
+}
+@media(max-width:424px) and (min-width:320px){
+   
+
+
+}
+
+@media(max-width:767px) and (min-width:426px){
+    .banner_right_content {
+        text-align: center;
+    }
+    .free_shipping .item1 h5{
+        font-size: 14px;
+    }
+    .free_shipping .item1 h2{
+        font-size: 18px;
+    }
+    .customers_Items {
+        margin-bottom: 20px;
+    }
+    .footer_logo_content,.footer_content h2,.footer_content p,.store{
+        text-align: center;
+    }
+    footer p{
+        margin-bottom: 64px;
+    }
+    .unorderlist{
+        display: inline-block;
+    }
+    .full_content {
+        text-align: center;
+    }
+   
+
+
+
+}
+@media(max-width:575px) and (min-width:320px){
+   
+}
+
+@media(max-width:767px) and (min-width:576px){
+    
+}
+@media(max-width:1024px) and (min-width:768px){
+   
+    .form-control{
+        display: none;
+    }
+    .btn{
+        display: none;
+    }
+    .nav-item {
+    
+        text-align: center;
+    }
+    .banner_right_content h1 {
+        font-size: 22px;
+       
+        padding: 11px 0px;
+        
+    }
+    .free_shipping .item1{
+        text-align: center;
+    }
+    .free_shipping .item1 i{
+        font-size: 16px;
+    }
+    .free_shipping .item1 h5 {
+       
+         margin-left: 0px; 
+       
+        font-size: 13px;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+@media(max-width:1199px) and (min-width:992px){
+   
+}
+@media(max-width:1399px) and (min-width:1200px){
+   
+}
+
